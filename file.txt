@@ -1,0 +1,7 @@
+"Added Line 01"
+"Added Line 02"
+"Added Line 03"
+
+
+
+Commit msg should be descriptive for easies accessability and readability 
